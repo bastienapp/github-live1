@@ -1,0 +1,16 @@
+footer > section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around
+}
+footer > section > ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+footer > p {
+    text-align: center;
+}
